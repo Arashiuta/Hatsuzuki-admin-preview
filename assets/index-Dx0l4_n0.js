@@ -1,0 +1,1 @@
+import{_ as t,e as s,f as a,i as n}from"./index-Dm25snzc.js";const o={};function r(l,e){return a(),s("div",null,e[0]||(e[0]=[n("h1",null,"Example Page",-1),n("p",null,"This is an example page to demonstrate Vue.js component structure.",-1)]))}const p=t(o,[["render",r]]);export{p as default};
